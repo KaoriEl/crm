@@ -1,0 +1,17 @@
+{
+    "admin": "Администратор",
+    "editor": "Главный редактор",
+    "journalist": "Журналист",
+    "smm": "SMM",
+    "commenter": "Комментатор",
+    "draft": "Черновик",
+    "posting_or_seeding": "Размещение и посев",
+    "targeting_or_commenting": "Таргет и комментирование",
+    "done": "Завершенные",
+    "archive": "Архив",
+    "moderating": "Проверяется",
+    "publishing": "Публикуется",
+    "not_assigned": "Без назначения",
+    "targeter": "Таргет",
+    "seeder": "Посев"
+}

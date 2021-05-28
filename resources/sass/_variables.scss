@@ -1,0 +1,60 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #007bff;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #dc3545;
+$orange: #f6993f;
+$yellow: #ffc107;
+$green: #28a745;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$aque: #1082ae;
+$white: #fff;
+$purple_dark: #0806919c;
+
+// Button
+$btn-font-weight: 600;
+
+// Card
+$card-border-color: #dee2e6;
+$card-border-radius: 0.5rem;
+
+// Form control
+$input-border-radius: .5rem;
+
+// Dropdown
+$zindex-dropdown: 1002;
+$dropdown-padding-x: .5rem;
+$dropdown-box-shadow: 0 0.1875rem 0.375rem rgba(33, 37, 41, 0.1);
+$dropdown-border-color: #dee2e6;
+$dropdown-border-radius: .5rem;
+
+$dropdown-item-padding-x: 0.875rem;
+$dropdown-item-padding-y: 0.25rem;
+$dropdown-item-border-radius: 0.25rem;
+$dropdown-item-font-weight: 500;
+
+$dropdown-link-color: $blue;
+$dropdown-link-hover-color: $blue;
+$dropdown-link-hover-bg: #e9ecef;
+
+// List group
+$list-group-border-color: #dee2e6;
+
+// Misc
+$spacer: 1.5rem;
+
+$custom-file-text: (
+  en: "Browse",
+  ru: "Обзор"
+);

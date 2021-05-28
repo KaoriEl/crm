@@ -1,0 +1,36 @@
+.btn.btn-round {
+    color: #6c757d;
+    border-radius: 50%;
+    background: #dee2e6;
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-options {
+    color: $body-color;
+    padding: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.badge-orange {
+    background-color: $orange;
+    color: $white;
+}
+
+.badge-aque {
+    background-color: $aque;
+    color: $white;
+}
+
+.badge-no_journalist {
+    background-color: $purple_dark;
+    color: $white;
+}

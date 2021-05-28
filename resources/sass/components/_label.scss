@@ -1,0 +1,19 @@
+.label {
+    padding: 0 3px;
+    color: $text-muted;
+
+    &-done {
+        color: $success;
+        font-weight: bold;
+        text-decoration: line-through;
+    }
+
+    &-invisible {
+        display:none;
+    }
+
+    &-warning {
+        color: #ffc107;
+        font-weight: bold;
+    }
+}

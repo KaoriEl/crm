@@ -1,0 +1,9 @@
+.dropdown-menu {
+    padding-left: $dropdown-padding-x;
+    padding-right: $dropdown-padding-x;
+}
+
+.dropdown-item {
+    font-weight: $dropdown-item-font-weight;
+    border-radius: $dropdown-item-border-radius;
+}
